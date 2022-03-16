@@ -1,0 +1,988 @@
+{
+    "mescompetences": [
+        {
+            "label": "Administrer une vente E-commerce",
+            "code_ogr": 122338
+        },
+        {
+            "label": "Accueillir le client à son arrivée au restaurant, l'installer à une table et lui présenter la carte",
+            "code_ogr": 104323
+        },
+        {
+            "label": "Accueillir les clients à leur arrivée et effectuer les formalités administratives liées à leur séjour",
+            "code_ogr": 104174
+        },
+        {
+            "label": "Accueillir les personnes",
+            "code_ogr": 109607
+        },
+        {
+            "label": "Actualiser des bases de connaissances",
+            "code_ogr": 121533
+        },
+        {
+            "label": "Actualiser des outils de formation / pédagogiques",
+            "code_ogr": 121621
+        },
+        {
+            "label": "Alimenter des réseaux sociaux",
+            "code_ogr": 120769
+        },
+        {
+            "label": "Améliorer le positionnement d'un site web",
+            "code_ogr": 121262
+        },
+        {
+            "label": "Améliorer une procédure qualité",
+            "code_ogr": 118275
+        },
+        {
+            "label": "Analyse statistique",
+            "code_ogr": 101315
+        },
+        {
+            "label": "Analyser des dysfonctionnements et des difficultés techniques de connexion au site ou d'utilisation des services par les internautes",
+            "code_ogr": 102445
+        },
+        {
+            "label": "Analyser des problèmes techniques",
+            "code_ogr": 121398
+        },
+        {
+            "label": "Analyser les besoins du client",
+            "code_ogr": 118637
+        },
+        {
+            "label": "Analyser les données d'activité de la structure, du service et identifier des axes d'évolution",
+            "code_ogr": 115028
+        },
+        {
+            "label": "Animer des groupes de paroles",
+            "code_ogr": 108364
+        },
+        {
+            "label": "Animer un atelier à thème",
+            "code_ogr": 121329
+        },
+        {
+            "label": "Animer une communauté web",
+            "code_ogr": 120733
+        },
+        {
+            "label": "Animer une formation",
+            "code_ogr": 119787
+        },
+        {
+            "label": "Animer une réunion",
+            "code_ogr": 123182
+        },
+        {
+            "label": "Apporter une assistance technique",
+            "code_ogr": 119625
+        },
+        {
+            "label": "Argumentation commerciale",
+            "code_ogr": 100381
+        },
+        {
+            "label": "Association mets/vins",
+            "code_ogr": 104348
+        },
+        {
+            "label": "Assurer les relations avec des entreprises et des collectivités",
+            "code_ogr": 124515
+        },
+        {
+            "label": "Caisse informatisée",
+            "code_ogr": 119040
+        },
+        {
+            "label": "Clôturer une caisse",
+            "code_ogr": 121749
+        },
+        {
+            "label": "Communication digitale",
+            "code_ogr": 115919
+        },
+        {
+            "label": "Communication externe",
+            "code_ogr": 117427
+        },
+        {
+            "label": "Communication interne",
+            "code_ogr": 117426
+        },
+        {
+            "label": "Compléter les formulaires, les questionnaires et les comptes rendus",
+            "code_ogr": 109484
+        },
+        {
+            "label": "Comptabilité générale",
+            "code_ogr": 101360
+        },
+        {
+            "label": "Concevoir des documents techniques",
+            "code_ogr": 122180
+        },
+        {
+            "label": "Concevoir des indicateurs de performance",
+            "code_ogr": 119269
+        },
+        {
+            "label": "Concevoir des modules de formation",
+            "code_ogr": 120501
+        },
+        {
+            "label": "Concevoir des outils de formation / pédagogiques",
+            "code_ogr": 121620
+        },
+        {
+            "label": "Concevoir des programmes de fidélisation clients",
+            "code_ogr": 121207
+        },
+        {
+            "label": "Concevoir des supports d'information et de communication",
+            "code_ogr": 119880
+        },
+        {
+            "label": "Concevoir le circuit de l'information du service commercial (réunions, notes, directives)",
+            "code_ogr": 121088
+        },
+        {
+            "label": "Concevoir un programme d'information",
+            "code_ogr": 116919
+        },
+        {
+            "label": "Concevoir un support de communication audiovisuel",
+            "code_ogr": 124219
+        },
+        {
+            "label": "Concevoir une Foire Aux Questions (FAQ)",
+            "code_ogr": 123836
+        },
+        {
+            "label": "Concevoir une maquette de présentation",
+            "code_ogr": 120337
+        },
+        {
+            "label": "Concevoir une stratégie de relation clientèle",
+            "code_ogr": 121412
+        },
+        {
+            "label": "Conduire un atelier de formation",
+            "code_ogr": 122177
+        },
+        {
+            "label": "Conseiller des internautes par téléphone",
+            "code_ogr": 118625
+        },
+        {
+            "label": "Conseiller le client dans ses choix de plats selon ses goûts, les suggestions du jour et prendre sa commande",
+            "code_ogr": 104324
+        },
+        {
+            "label": "Conseiller un client",
+            "code_ogr": 125815
+        },
+        {
+            "label": "Conseiller une clientèle ou un public",
+            "code_ogr": 120146
+        },
+        {
+            "label": "Construire un argumentaire de vente",
+            "code_ogr": 122220
+        },
+        {
+            "label": "Contacter un client ou un prospect",
+            "code_ogr": 121420
+        },
+        {
+            "label": "Contribuer à des actions de promotion dans les médias et sur les réseaux sociaux",
+            "code_ogr": 126228
+        },
+        {
+            "label": "Contrôler des moyens de paiement",
+            "code_ogr": 124393
+        },
+        {
+            "label": "Contrôler l'application d'une procédure",
+            "code_ogr": 119317
+        },
+        {
+            "label": "Contrôler la réalisation d'une prestation",
+            "code_ogr": 124007
+        },
+        {
+            "label": "Contrôler le suivi administratif de comptes clients",
+            "code_ogr": 117205
+        },
+        {
+            "label": "Contrôler une prestation avec un client",
+            "code_ogr": 121555
+        },
+        {
+            "label": "Coordonner l'activité d'une équipe",
+            "code_ogr": 102359
+        },
+        {
+            "label": "Coordonner la logistique d'évènements promotionnels",
+            "code_ogr": 122166
+        },
+        {
+            "label": "Critères de tri sélectif",
+            "code_ogr": 108735
+        },
+        {
+            "label": "Débarrasser une table",
+            "code_ogr": 124015
+        },
+        {
+            "label": "Découpe manuelle de fromage",
+            "code_ogr": 100322
+        },
+        {
+            "label": "Définir des besoins en formation",
+            "code_ogr": 119762
+        },
+        {
+            "label": "Définir des objectifs commerciaux",
+            "code_ogr": 122628
+        },
+        {
+            "label": "Définir la faisabilité et la rentabilité d'un projet",
+            "code_ogr": 113547
+        },
+        {
+            "label": "Définir le plan d'action commercial et établir le plan de tournée (ciblage, interlocuteurs, préparation de dossiers techniques)",
+            "code_ogr": 102318
+        },
+        {
+            "label": "Définir les modalités d'une vente avec un client",
+            "code_ogr": 122186
+        },
+        {
+            "label": "Définir une stratégie commerciale",
+            "code_ogr": 101370
+        },
+        {
+            "label": "Définir une stratégie de fidélisation",
+            "code_ogr": 122519
+        },
+        {
+            "label": "Déterminer le potentiel d'un client ou prospect",
+            "code_ogr": 121364
+        },
+        {
+            "label": "Déterminer les solutions et préconisations techniques et les communiquer aux clients",
+            "code_ogr": 104359
+        },
+        {
+            "label": "Développer un portefeuille clients et prospects",
+            "code_ogr": 121427
+        },
+        {
+            "label": "Développer un réseau de partenaires",
+            "code_ogr": 120516
+        },
+        {
+            "label": "Diagnostiquer la nature et l'origine des incidents et mettre en oeuvre les mesures correctives",
+            "code_ogr": 109971
+        },
+        {
+            "label": "Dresser les tables",
+            "code_ogr": 117933
+        },
+        {
+            "label": "Editer un rapport statistique de suivi d'activité",
+            "code_ogr": 122744
+        },
+        {
+            "label": "Effectuer le service de plats à table selon les techniques spécifiques (à l'assiette, à la française, à l'anglaise, ...)",
+            "code_ogr": 126446
+        },
+        {
+            "label": "Effectuer le suivi d'une relation client",
+            "code_ogr": 122198
+        },
+        {
+            "label": "Effectuer le suivi technique des produits et de leur évolution auprès des clients",
+            "code_ogr": 126421
+        },
+        {
+            "label": "Effectuer une démonstration devant un client ou un public",
+            "code_ogr": 121759
+        },
+        {
+            "label": "Élaborer des propositions commerciales",
+            "code_ogr": 117344
+        },
+        {
+            "label": "Encadrer des stagiaires dans leurs missions",
+            "code_ogr": 123128
+        },
+        {
+            "label": "Encaisser le montant d'une vente",
+            "code_ogr": 102068
+        },
+        {
+            "label": "Enregistrer les réservations et actualiser le plan d'occupation des tables, des salles du restaurant",
+            "code_ogr": 104322
+        },
+        {
+            "label": "Enregistrer les réservations et actualiser le planning d'occupation des chambres, des appartements, des bungalows, ...",
+            "code_ogr": 104292
+        },
+        {
+            "label": "Environnement culturel et touristique",
+            "code_ogr": 104283
+        },
+        {
+            "label": "Équipements audiovisuels",
+            "code_ogr": 119134
+        },
+        {
+            "label": "Équipements de télécommunication",
+            "code_ogr": 118617
+        },
+        {
+            "label": "Établir les modalités de règlement d'un litige ou transmettre aux services juridiques, contentieux",
+            "code_ogr": 104073
+        },
+        {
+            "label": "Établir une facture",
+            "code_ogr": 117666
+        },
+        {
+            "label": "Former des utilisateurs à un produit ou un équipement",
+            "code_ogr": 120902
+        },
+        {
+            "label": "Former du personnel à des procédures et techniques",
+            "code_ogr": 121060
+        },
+        {
+            "label": "Former un nouveau collaborateur aux méthodes et techniques de l'entreprise",
+            "code_ogr": 123993
+        },
+        {
+            "label": "Former un public",
+            "code_ogr": 123036
+        },
+        {
+            "label": "Former un public à l'utilisation d'un équipement",
+            "code_ogr": 123194
+        },
+        {
+            "label": "Gérer des appels entrants",
+            "code_ogr": 126122
+        },
+        {
+            "label": "Gérer des appels sortants",
+            "code_ogr": 126123
+        },
+        {
+            "label": "Gérer les droits d'accès des utilisateurs",
+            "code_ogr": 120518
+        },
+        {
+            "label": "Gérer un portefeuille de dossiers clients",
+            "code_ogr": 117129
+        },
+        {
+            "label": "Gestion administrative",
+            "code_ogr": 120889
+        },
+        {
+            "label": "Gestion commerciale, relation clients",
+            "code_ogr": 126340
+        },
+        {
+            "label": "Gestion comptable",
+            "code_ogr": 120888
+        },
+        {
+            "label": "Gestion de configuration",
+            "code_ogr": 109851
+        },
+        {
+            "label": "Gestion de projet",
+            "code_ogr": 120246
+        },
+        {
+            "label": "Gestion des déchets",
+            "code_ogr": 120818
+        },
+        {
+            "label": "Hôtellerie, restauration",
+            "code_ogr": 118223
+        },
+        {
+            "label": "Identifier un compte débiteur",
+            "code_ogr": 121898
+        },
+        {
+            "label": "Infogérance / télémaintenance",
+            "code_ogr": 109770
+        },
+        {
+            "label": "Informatique",
+            "code_ogr": 104548
+        },
+        {
+            "label": "Informer les clients des problèmes techniques relevés et des modifications et réparations à apporter",
+            "code_ogr": 104357
+        },
+        {
+            "label": "Informer une clientèle sur l'offre touristique",
+            "code_ogr": 121522
+        },
+        {
+            "label": "Intervenir auprès d'une clientèle d'entreprises",
+            "code_ogr": 102229
+        },
+        {
+            "label": "Intervenir auprès d'une clientèle de particuliers",
+            "code_ogr": 102287
+        },
+        {
+            "label": "Langue étrangère - Anglais",
+            "code_ogr": 118471
+        },
+        {
+            "label": "Lecture de plan de salle",
+            "code_ogr": 104333
+        },
+        {
+            "label": "Logiciel de gestion clients",
+            "code_ogr": 121688
+        },
+        {
+            "label": "Logiciel de gestion hôtelière",
+            "code_ogr": 117667
+        },
+        {
+            "label": "Logiciels d'édition multimédia",
+            "code_ogr": 119523
+        },
+        {
+            "label": "Logiciels de facturation hôtelière",
+            "code_ogr": 119435
+        },
+        {
+            "label": "Logiciels de gestion d'appels téléphoniques",
+            "code_ogr": 119077
+        },
+        {
+            "label": "Logiciels de gestion de base de données",
+            "code_ogr": 100113
+        },
+        {
+            "label": "Logiciels de réservation",
+            "code_ogr": 119527
+        },
+        {
+            "label": "Maîtriser la e-réputation d'une entreprise",
+            "code_ogr": 125866
+        },
+        {
+            "label": "Management",
+            "code_ogr": 119842
+        },
+        {
+            "label": "Management électronique de relation client (e-CRM)",
+            "code_ogr": 121690
+        },
+        {
+            "label": "Mener une campagne d'e-mailing",
+            "code_ogr": 115701
+        },
+        {
+            "label": "Méthode AGILE",
+            "code_ogr": 113277
+        },
+        {
+            "label": "Méthodes et outils de résolution de problèmes",
+            "code_ogr": 122425
+        },
+        {
+            "label": "Mettre des documents techniques à disposition des clients",
+            "code_ogr": 122181
+        },
+        {
+            "label": "Mettre en oeuvre une stratégie commerciale",
+            "code_ogr": 122534
+        },
+        {
+            "label": "Microsoft Dynamics CRM",
+            "code_ogr": 119036
+        },
+        {
+            "label": "Modes de paiement",
+            "code_ogr": 101503
+        },
+        {
+            "label": "Négocier des partenariats",
+            "code_ogr": 121661
+        },
+        {
+            "label": "Négocier un contrat",
+            "code_ogr": 117180
+        },
+        {
+            "label": "Nettoyer une salle de réception",
+            "code_ogr": 124014
+        },
+        {
+            "label": "Oracle",
+            "code_ogr": 119034
+        },
+        {
+            "label": "Organiser des actions de formation",
+            "code_ogr": 122479
+        },
+        {
+            "label": "Organiser et contrôler le service en salle (dressage des tables, liaison salle-cuisine, ...)",
+            "code_ogr": 104325
+        },
+        {
+            "label": "Organiser la stratégie commerciale sur une zone géographique régionale",
+            "code_ogr": 109735
+        },
+        {
+            "label": "Organiser un évènement",
+            "code_ogr": 125436
+        },
+        {
+            "label": "Organiser un évènement professionnel",
+            "code_ogr": 122264
+        },
+        {
+            "label": "Organiser une prestation d'assistance",
+            "code_ogr": 121927
+        },
+        {
+            "label": "Organiser une stratégie commerciale",
+            "code_ogr": 121923
+        },
+        {
+            "label": "Orienter le client et transférer son appel vers l'interlocuteur approprié",
+            "code_ogr": 126315
+        },
+        {
+            "label": "Outils bureautiques",
+            "code_ogr": 118975
+        },
+        {
+            "label": "Outils de planification",
+            "code_ogr": 123361
+        },
+        {
+            "label": "Outils multimédia",
+            "code_ogr": 118238
+        },
+        {
+            "label": "Paramétrage de logiciels",
+            "code_ogr": 120583
+        },
+        {
+            "label": "Participer à l'élaboration d'un cahier des charges",
+            "code_ogr": 117111
+        },
+        {
+            "label": "Participer à l'élaboration d'une stratégie de relation clientèle",
+            "code_ogr": 121930
+        },
+        {
+            "label": "Piloter un projet",
+            "code_ogr": 113325
+        },
+        {
+            "label": "Préparations culinaires de base",
+            "code_ogr": 119503
+        },
+        {
+            "label": "Préparer des boissons chaudes ou froides",
+            "code_ogr": 124961
+        },
+        {
+            "label": "Préparer des plats simples (salades, assiette de crudités, de fromages, desserts, ...)",
+            "code_ogr": 104227
+        },
+        {
+            "label": "Préparer et effectuer le service des petits-déjeuners en salle, en chambre",
+            "code_ogr": 104175
+        },
+        {
+            "label": "Présenter des produits et services",
+            "code_ogr": 121421
+        },
+        {
+            "label": "Présenter et promouvoir une formation",
+            "code_ogr": 124040
+        },
+        {
+            "label": "Présenter la carte des vins, conseiller les clients et prendre la commande",
+            "code_ogr": 104345
+        },
+        {
+            "label": "Présenter ou identifier l'objet de l'appel (commande, vente, information, réclamation, assistance, ...)",
+            "code_ogr": 126253
+        },
+        {
+            "label": "Principes d'intégration de matériels et de logiciels",
+            "code_ogr": 106861
+        },
+        {
+            "label": "Principes de la relation client",
+            "code_ogr": 101343
+        },
+        {
+            "label": "Procédures d'encaissement",
+            "code_ogr": 100341
+        },
+        {
+            "label": "Process et procédures d'achats",
+            "code_ogr": 120329
+        },
+        {
+            "label": "Produits multimédia",
+            "code_ogr": 116620
+        },
+        {
+            "label": "Progiciels de gestion de la relation client (CRM - Customer Relationship Management)",
+            "code_ogr": 116414
+        },
+        {
+            "label": "Proposer des axes d'amélioration",
+            "code_ogr": 117162
+        },
+        {
+            "label": "Proposer des axes d'évolution",
+            "code_ogr": 120914
+        },
+        {
+            "label": "Proposer des évolutions des systèmes d'information",
+            "code_ogr": 119881
+        },
+        {
+            "label": "Proposer des solutions techniques à un client",
+            "code_ogr": 124094
+        },
+        {
+            "label": "Proposer une solution d'assistance",
+            "code_ogr": 122165
+        },
+        {
+            "label": "Prospecter de nouveaux marchés",
+            "code_ogr": 117277
+        },
+        {
+            "label": "Prospecter un marché",
+            "code_ogr": 124109
+        },
+        {
+            "label": "Ranger une réserve",
+            "code_ogr": 121921
+        },
+        {
+            "label": "Réaliser des enquêtes et des sondages en ligne",
+            "code_ogr": 120596
+        },
+        {
+            "label": "Réaliser des opérations de change de devises",
+            "code_ogr": 124137
+        },
+        {
+            "label": "Réaliser des supports de communication multimédia",
+            "code_ogr": 121818
+        },
+        {
+            "label": "Réaliser l'entretien des verres et des couverts (à la vapeur, au vinaigre, ...) et le rangement de la vaisselle",
+            "code_ogr": 114538
+        },
+        {
+            "label": "Réaliser la mise à jour du site à l'aide d'une interface d'administration",
+            "code_ogr": 113850
+        },
+        {
+            "label": "Réaliser la mise en place de la salle et de l'office",
+            "code_ogr": 117932
+        },
+        {
+            "label": "Réaliser le bilan d'activité d'un service et informer les acteurs concernés",
+            "code_ogr": 124381
+        },
+        {
+            "label": "Réaliser le suivi d'une clientèle grand compte",
+            "code_ogr": 122326
+        },
+        {
+            "label": "Réaliser le suivi d'une clientèle grand compte",
+            "code_ogr": 122326
+        },
+        {
+            "label": "Réaliser un service au bar",
+            "code_ogr": 124962
+        },
+        {
+            "label": "Réaliser un service en salle",
+            "code_ogr": 124963
+        },
+        {
+            "label": "Réaliser un suivi d'activité",
+            "code_ogr": 119106
+        },
+        {
+            "label": "Réaliser un suivi d'appel",
+            "code_ogr": 124611
+        },
+        {
+            "label": "Réaliser un suivi des encaissements",
+            "code_ogr": 122917
+        },
+        {
+            "label": "Réaliser une opération promotionnelle",
+            "code_ogr": 122197
+        },
+        {
+            "label": "Réaliser une veille documentaire (collecte, analyse etc.)",
+            "code_ogr": 118732
+        },
+        {
+            "label": "Réceptionner et contrôler des produits (quantité, conformité, état, ...)",
+            "code_ogr": 115554
+        },
+        {
+            "label": "Rechercher des financements, des partenariats",
+            "code_ogr": 120333
+        },
+        {
+            "label": "Rechercher et identifier des évolutions de marchés, des marchés potentiels",
+            "code_ogr": 126422
+        },
+        {
+            "label": "Recueillir l'avis et les remarques d'un client",
+            "code_ogr": 122327
+        },
+        {
+            "label": "Règlement Général européen sur la Protection des Données (RGPD)",
+            "code_ogr": 119308
+        },
+        {
+            "label": "Règles d'hygiène et de sécurité alimentaire",
+            "code_ogr": 100359
+        },
+        {
+            "label": "Règles et consignes de sécurité",
+            "code_ogr": 101506
+        },
+        {
+            "label": "Renseigner le client sur les prestations de l'établissement et les modalités de réservation",
+            "code_ogr": 104173
+        },
+        {
+            "label": "Renseigner les supports de suivi d'intervention et transmettre les informations au service concerné",
+            "code_ogr": 102694
+        },
+        {
+            "label": "Répondre aux demandes des clients durant leur séjour",
+            "code_ogr": 104293
+        },
+        {
+            "label": "Représenter l'entreprise lors d'un événement extérieur",
+            "code_ogr": 122486
+        },
+        {
+            "label": "Représenter l'entreprise lors d'un événement extérieur",
+            "code_ogr": 122486
+        },
+        {
+            "label": "Réseaux informatiques et télécoms",
+            "code_ogr": 109814
+        },
+        {
+            "label": "Saisir une commande sur informatique",
+            "code_ogr": 119398
+        },
+        {
+            "label": "Sélectionner des fournisseurs, sous-traitants, prestataires",
+            "code_ogr": 117146
+        },
+        {
+            "label": "Site web",
+            "code_ogr": 126234
+        },
+        {
+            "label": "Sommellerie",
+            "code_ogr": 100376
+        },
+        {
+            "label": "Stratégie commerciale",
+            "code_ogr": 104301
+        },
+        {
+            "label": "Stratégie tarifaire",
+            "code_ogr": 104300
+        },
+        {
+            "label": "Surveiller des évolutions technologiques des systèmes d'information et de télécommunications et proposer des solutions techniques",
+            "code_ogr": 113837
+        },
+        {
+            "label": "Techniques commerciales",
+            "code_ogr": 121706
+        },
+        {
+            "label": "Techniques d'animation d'atelier",
+            "code_ogr": 107830
+        },
+        {
+            "label": "Techniques d'animation de groupe",
+            "code_ogr": 103848
+        },
+        {
+            "label": "Techniques d'écoute et de la relation à la personne",
+            "code_ogr": 102066
+        },
+        {
+            "label": "Techniques de communication",
+            "code_ogr": 100541
+        },
+        {
+            "label": "Techniques de dressage de table",
+            "code_ogr": 104336
+        },
+        {
+            "label": "Techniques de e-learning",
+            "code_ogr": 104364
+        },
+        {
+            "label": "Techniques de gestion du stress",
+            "code_ogr": 102336
+        },
+        {
+            "label": "Techniques de mémorisation",
+            "code_ogr": 102481
+        },
+        {
+            "label": "Techniques de négociation",
+            "code_ogr": 121470
+        },
+        {
+            "label": "Techniques de planification",
+            "code_ogr": 104150
+        },
+        {
+            "label": "Techniques de port de plateaux/plats",
+            "code_ogr": 104313
+        },
+        {
+            "label": "Techniques de prévention et de gestion de conflits",
+            "code_ogr": 101949
+        },
+        {
+            "label": "Techniques de service à l'anglaise",
+            "code_ogr": 125058
+        },
+        {
+            "label": "Techniques de service à l'assiette",
+            "code_ogr": 104316
+        },
+        {
+            "label": "Techniques de service à l'assiette clochée",
+            "code_ogr": 125061
+        },
+        {
+            "label": "Techniques de service à la française",
+            "code_ogr": 125060
+        },
+        {
+            "label": "Techniques de service à la russe (au guéridon)",
+            "code_ogr": 125059
+        },
+        {
+            "label": "Techniques de service des plats",
+            "code_ogr": 104335
+        },
+        {
+            "label": "Techniques de storytelling - communication narrative",
+            "code_ogr": 124974
+        },
+        {
+            "label": "Techniques de vente",
+            "code_ogr": 100340
+        },
+        {
+            "label": "Techniques de vente par téléphone",
+            "code_ogr": 121862
+        },
+        {
+            "label": "Techniques pédagogiques",
+            "code_ogr": 100090
+        },
+        {
+            "label": "Technologie de l'internet",
+            "code_ogr": 118700
+        },
+        {
+            "label": "Technologies informatiques",
+            "code_ogr": 109803
+        },
+        {
+            "label": "Traiter des dossiers de contentieux (litiges, réclamations ...)",
+            "code_ogr": 120695
+        },
+        {
+            "label": "Traiter des litiges clients",
+            "code_ogr": 123407
+        },
+        {
+            "label": "Traiter les demandes d'internautes",
+            "code_ogr": 124906
+        },
+        {
+            "label": "Traiter une commande",
+            "code_ogr": 124701
+        },
+        {
+            "label": "Transmettre un problème technique complexe à un spécialiste",
+            "code_ogr": 122490
+        },
+        {
+            "label": "Typologie du client",
+            "code_ogr": 121691
+        },
+        {
+            "label": "Utilisation de matériel de bar",
+            "code_ogr": 118970
+        },
+        {
+            "label": "Veille concurrentielle",
+            "code_ogr": 113389
+        },
+        {
+            "label": "Veiller à la satisfaction d'un client",
+            "code_ogr": 122482
+        },
+        {
+            "label": "Vendre des produits sur internet",
+            "code_ogr": 123599
+        },
+        {
+            "label": "Vérifier l'identité et les coordonnées de l'interlocuteur",
+            "code_ogr": 122492
+        },
+        {
+            "label": "Vérifier la disponibilité d'un produit",
+            "code_ogr": 122484
+        },
+        {
+            "label": "Vérifier les éléments d'activité et de gestion administrative du personnel",
+            "code_ogr": 124620
+        },
+        {
+            "label": "Yield management",
+            "code_ogr": 123186
+        }
+    ]
+}
